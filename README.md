@@ -131,3 +131,43 @@ hr
 + rowspan
 
 + colspan
+
+## 表单
+
++ input
+
++ type
+
++ text
+
++ password
+
++ radio
+
++ checkbox
+
++ name
+
++ file
+
++ multiple
+
++ button
+
++ submit
+
++ reset
+
++ value
+
++ placeholder
+
++ checked
+
++ form
+
++ select
+
++ option
+
++ selected
