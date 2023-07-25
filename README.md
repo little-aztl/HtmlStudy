@@ -171,3 +171,55 @@ hr
 + option
 
 + selected
+
++ textarea
+
++ label
+
++ id
+
++ for
+
+## 语义化标签
+
++ div
+
++ span
+
+## 字符实体
+
+`&nbsp;`
+
+<hr>
+
+# CSSStudy
+
+## 选择器
+
++ 标签选择器  
+
++ `.`+类选择器
+
++ `#`+id选择器
+
++ `*`：通选选择器
+
+## 文字基本样式
+
++ font-size(xxx px)
+
++ font-weight
+  
+  + normal
+  
+  + bold
+
++ font-style
+  
+  + normal
+  
+  + italic
+
++ font-family
+  
+  + sans-serif
