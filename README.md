@@ -223,3 +223,41 @@ hr
 + font-family
   
   + sans-serif
+
+## font复合属性
+
+style weight size/line-height family
+
+## 文本缩进
+
++ text-indent
+
+## 水平对齐方式
+
++ text-align
+
++ center
+
++ left
+
++ right
+
+## 文本修饰线
+
++ text-decoration
+
++ underline
+
++ overline
+
++ line-through
+
++ none
+
+## 行高
+
++ line-height
+
+## 标签居中
+
++ `margin: 0 auto`
