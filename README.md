@@ -283,3 +283,41 @@ style weight size/line-height family
 ### 伪类（鼠标悬停效果）
 
 `选择器:hover`
+
+## 背景
+
+### 背景色
+
+background-color
+
+### 背景图
+
++ background-image
+
++ url
+
+### 背景位置
+
++ background-position
+
++ left
+
++ center
+
++ right
+
++ top
+
++ bottom
+
+## 背景平铺
+
++ background-repeat
+
++ no-repeat
+
++ repeat-x
+
++ repeat-y
+
++ repeat
