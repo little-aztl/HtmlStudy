@@ -216,7 +216,7 @@ hr
 
 + font-style
   
-  + normal
+  + [normal]()
   
   + italic
 
@@ -321,3 +321,11 @@ background-color
 + repeat-y
 
 + repeat
+
+## 显示模式转换
+
++ display
+
++ block
+
++ inline-block
