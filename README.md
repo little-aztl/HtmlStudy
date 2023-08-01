@@ -310,7 +310,7 @@ background-color
 
 + bottom
 
-## 背景平铺
+### 背景平铺
 
 + background-repeat
 
