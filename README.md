@@ -329,3 +329,36 @@ background-color
 + block
 
 + inline-block
+
+## 边框
+
++ border
+
++ solid
+
++ dashed
+
++ dotted
+
+## 内边距
+
++ padding
+
+## 内减模式
+
++ box-sizing
+
++ border-box
+
+## 清除样式
+
+```css
+* {
+    margin: 0;
+    padding : 0;
+}
+```
+
+## 版心居中
+
++ `margin : 0 auto`

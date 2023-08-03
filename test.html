@@ -2,31 +2,62 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=a, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        a {
-            width: 100px;
-            height: 50px;
-            background-color: red;
-            display: inline-block;
-            text-decoration: underline;
-            color: white;
-            text-align: center;
-            line-height: 50px;
-            font-weight: bold;
-            font-style: italic;
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
-        a:hover {
-            background-color: orange;
+        div.news {
+            margin: 50px auto;
+            width: 1250px;
+            height: 1000px;
+            /* background-color: pink; */
+            border: 3px solid #c1c1c1;
+            padding: 106px 76px;
+        }
+        .news h2 {
+            border-bottom: 3px solid #bababa   ;
+            font-size: 76px;
+            line-height: 1;
+            padding-bottom: 23px;
+        }
+        ul {
+            list-style: none;
+        }
+        div > ul > li {
+            height: 122px;
+            border-bottom: 3px dashed #bcbcbc;
+            padding-left: 72px;
+            line-height: 122px;
+        }
+        div > ul > li > a {
+            font-size: 44px;
+            color: #5e5e60;
+            text-decoration: none;
         }
     </style>
 </head>
 <body>
-    <a href="#">导航1</a>
-    <a href="#">导航2</a>
-    <a href="#">导航3</a>
-    <a href="#">导航4</a>
-    <a href="#">导航5</a>
+    <div class="news">
+        <h2>最新文章/New Article</h2>
+        <ul>
+            <li><a href="#">北京招聘网页设计，平面设计，php</a></li>
+        </ul>
+        <ul>
+            <li><a href="#">北京招聘网页设计，平面设计，php</a></li>
+        </ul>
+        <ul>
+            <li><a href="#">北京招聘网页设计，平面设计，php</a></li>
+        </ul>
+        <ul>
+            <li><a href="#">北京招聘网页设计，平面设计，php</a></li>
+        </ul>
+        <ul>
+            <li><a href="#">北京招聘网页设计，平面设计，php</a></li>
+        </ul>
+    </div>
 </body>
 </html>
